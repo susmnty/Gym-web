@@ -36,4 +36,6 @@ Welcome to Project 1 of our Web Development Tutorials series! This project invol
 
 This project provided valuable insights into web development, resulting in a responsive and aesthetically pleasing gym website. Feel free to explore the repository, and reach out with any questions or feedback. Thank you for following along on this journey!
 
----
+![Screenshot 2024-06-26 225655](https://github.com/susmnty/Gym-web/assets/133086628/3f617630-48a3-4219-9690-b2cd009c15c3)
+
+
